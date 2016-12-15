@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZNet", "EZNet\EZNet.csproj", "{B072B6BE-E690-4CA9-82FC-09BDA335E591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZNet Test", "EZNet Test\EZNet Test.csproj", "{8074CE78-C537-461B-B711-D744F588286B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZNet Chat", "EZNet Chat\EZNet Chat.csproj", "{57F21F44-79C3-42BD-BB69-4150382AE3A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B072B6BE-E690-4CA9-82FC-09BDA335E591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B072B6BE-E690-4CA9-82FC-09BDA335E591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B072B6BE-E690-4CA9-82FC-09BDA335E591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B072B6BE-E690-4CA9-82FC-09BDA335E591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8074CE78-C537-461B-B711-D744F588286B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8074CE78-C537-461B-B711-D744F588286B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8074CE78-C537-461B-B711-D744F588286B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8074CE78-C537-461B-B711-D744F588286B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F21F44-79C3-42BD-BB69-4150382AE3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F21F44-79C3-42BD-BB69-4150382AE3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F21F44-79C3-42BD-BB69-4150382AE3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F21F44-79C3-42BD-BB69-4150382AE3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
